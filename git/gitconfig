@@ -1,0 +1,7 @@
+[core]
+	editor = nano
+[user]
+	name = isakidev
+	email = gaspar.c.developer@gmail.com
+[alias]
+	lg = log --oneline --graph
